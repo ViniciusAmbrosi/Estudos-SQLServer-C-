@@ -1,0 +1,6 @@
+D:\Projetos\01-1\AcessoDB\obj\Debug\AcessoDB.csprojResolveAssemblyReference.cache
+D:\Projetos\01-1\AcessoDB\bin\Debug\AcessoDB.dll.config
+D:\Projetos\01-1\AcessoDB\bin\Debug\AcessoDB.dll
+D:\Projetos\01-1\AcessoDB\bin\Debug\AcessoDB.pdb
+D:\Projetos\01-1\AcessoDB\obj\Debug\AcessoDB.dll
+D:\Projetos\01-1\AcessoDB\obj\Debug\AcessoDB.pdb

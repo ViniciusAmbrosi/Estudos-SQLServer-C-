@@ -1,0 +1,5 @@
+D:\Projetos\01-1\Negocios\bin\Debug\Negocios.dll
+D:\Projetos\01-1\Negocios\bin\Debug\Negocios.pdb
+D:\Projetos\01-1\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\Projetos\01-1\Negocios\obj\Debug\Negocios.dll
+D:\Projetos\01-1\Negocios\obj\Debug\Negocios.pdb

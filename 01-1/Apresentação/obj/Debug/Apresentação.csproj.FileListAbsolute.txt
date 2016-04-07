@@ -1,0 +1,8 @@
+D:\Projetos\01-1\Apresentação\bin\Debug\Apresentação.exe.config
+D:\Projetos\01-1\Apresentação\bin\Debug\Apresentação.exe
+D:\Projetos\01-1\Apresentação\bin\Debug\Apresentação.pdb
+D:\Projetos\01-1\Apresentação\obj\Debug\Apresentação.csprojResolveAssemblyReference.cache
+D:\Projetos\01-1\Apresentação\obj\Debug\Apresentação.Properties.Resources.resources
+D:\Projetos\01-1\Apresentação\obj\Debug\Apresentação.csproj.GenerateResource.Cache
+D:\Projetos\01-1\Apresentação\obj\Debug\Apresentação.exe
+D:\Projetos\01-1\Apresentação\obj\Debug\Apresentação.pdb
