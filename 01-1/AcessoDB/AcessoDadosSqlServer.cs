@@ -50,7 +50,7 @@ namespace AcessoDB
                 //Colocando as coisas dentro do comando (dentro da caixa que vai trafegar na conexão)
                 sqlCommand.CommandType = commandType;
                 sqlCommand.CommandText = nomeStoredProcedureOuTextoSql;
-                sqlCommand.CommandTimeout = 7200; // Em segundos / padrão = 30
+                sqlCommand.CommandTimeout = 120; // Em segundos / padrão = 30
 
                 //Adicionar os parâmetros no comando
                 foreach (SqlParameter sqlParameter in sqlParameterCollection)
